@@ -1,11 +1,21 @@
-- 👋 Hi, I’m Mariel
-- 👀 I'm interested in programming, web development, and UX/UI design.
-- 🌱 I’m currently learning C++, C, Python, Javascript, Html, Css
-- 💞️ I’m looking to collaborate on someone who will value my worth emz.
-- 📫 How to reach me you can message me at my facebook acc Mariel Redido.
+<h1 align="center">Hi 👋, I'm Mariel</h1>
+<h3 align="center">Hi, I'm Mariel, an incoming BSIT freshman student here! I'm 17 years old, nearly 18. I really enjoy programming, or maybe I won't in the future, but anyways, I'm always open to new activities and willing to learn. Nice to meet you!</h3>
 
-<!---
-MacrRedids/MacrRedids is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-printf("Hi everyone, I hope everyone is feeling well!");
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=macrredids&label=Profile%20views&color=0e75b6&style=flat" alt="macrredids" /> </p>
+
+- 🌱 I’m currently learning and still learning **C++, Html, Css, JavaScript, C, Python**
+
+- 📫 How to reach me **https://www.facebook.com/mariel.redido/**
+
+- ⚡ Fun fact **Delulu**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/mariel redido" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mariel redido" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Ma-ye"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Ma-ye" /></a></p><br><br>
