@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MacrRedids
+- 👋 Hi, I’m Mariel
 - 👀 I'm interested in programming, web development, and UX/UI design.
 - 🌱 I’m currently learning C++, C, Python, Javascript, Html, Css
 - 💞️ I’m looking to collaborate on someone who will value my worth emz.
