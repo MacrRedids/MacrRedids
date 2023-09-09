@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Mariel</h1>
+<h1 align="center">Hi! 👋 I'm Mariel</h1>
 <h3 align="center">Hi, I'm Mariel, an incoming BSIT freshman student here! I'm 17 years old, nearly 18. I really enjoy programming, or maybe I won't in the future, but anyways, I'm always open to new activities and willing to learn. Nice to meet you!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=macrredids&label=Profile%20views&color=0e75b6&style=flat" alt="macrredids" /> </p>
