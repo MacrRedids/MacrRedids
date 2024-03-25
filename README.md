@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=macrredids&label=Profile%20views&color=0e75b6&style=flat" alt="macrredids" /> </p>
 
-- 🌱 I’m currently learning **C++, Html, Css, JavaScript, C, Python, java, c# and c++**
+- 🌱 I’m currently learning **C++, Html, Css, JavaScript, C, Python, Java, C# and C++**
 
 - 📫 How to reach me **https://www.facebook.com/mariel.redido/**
 
